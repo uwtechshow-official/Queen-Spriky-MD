@@ -1,7 +1,7 @@
 {
-  "name": "DARK-NETHU-MD",
-  "description": "Javascript WhatsApp bot made by Nethmika main",
-  "logo": "",
+  "name": "QUEEN SPRIKY MD WHATSAPP BOT",
+  "description": "Button Supported WhatsApp BOt Developed By Udavin",
+  "logo": "https://github.com/uwtechshow-official/Spriky-Database/blob/main/Logo/Bot.jpg?raw=true",
   "keywords": ["bot"],
   "success_url": "/",
 
@@ -11,14 +11,14 @@
       "required": true
     },  
 
-    "ALIVE_IMG": {
-      "description": "Put your alive img here.",
+    "MONGODB": {
+      "description": "Enter Your Mongodb Url Here.",
       "required": true
     },
     
-    "ALIVE_MSG": {
-      "description": "Put your alive msg here.",
-      "required": true
+    "OwnerNumber": {
+      "description": "Enter Your Owner Number Here.",
+      "required": false
     }   
 },
 
