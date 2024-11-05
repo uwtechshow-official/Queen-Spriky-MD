@@ -48,6 +48,15 @@
         "file-type": "^16.5.3",
         "fluent-ffmpeg": "^2.1.3",
         "formdata-node": "^6.0.3",
+        "gifencoder": "^2.0.1",
+        "google-it": "^1.6.4",
+        "gtts": "^0.2.1",
+        "hirunews-scrap": "^1.1.2",
+        "imagemaker.js": "^2.0.4",
+        "node-schedule": "^2.1.1",
+        "pixaldrain-sinhalasub": "git+https://github.com/DarkMakerofc/pixaldrain-sinhalasub.git",
+        "wa-sticker-formatter": "^4.4.4",
+        "xnxx-dl": "^1.0.2",
         
     }
 }
