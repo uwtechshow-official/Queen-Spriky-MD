@@ -4,7 +4,7 @@
     "description": "Lightweight WhatsApp Bot Developed By Udavin",
     "main": "index.js",
     "scripts": {
-        "start": "node index.js",
+        "start": "pm2 start index.js --deep-monitoring --attach --name queen-spriky-whatsapp-bot",
         "stop": "pm2 stop queen-spriky-whatsapp-bot",
         "restart": "pm2 restart queen-spriky-whatsapp-bot"
     },
