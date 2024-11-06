@@ -56,7 +56,6 @@
         "pixaldrain-sinhalasub": "git+https://github.com/DarkMakerofc/pixaldrain-sinhalasub.git",
         "wa-sticker-formatter": "^4.4.4",
         "xnxx-dl": "^1.0.2",
-        "@ffmpeg-installer/ffmpeg": "^1.1.0",
-        
+        "@ffmpeg-installer/ffmpeg": "^1.1.0"
     }
 }
