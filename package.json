@@ -38,7 +38,6 @@
         "yt-search": "^2.11.1",
         "ytdl-secktor": "^0.0.1-development"
         "@ffmpeg-installer/ffmpeg": "^1.1.0",
-        "@mrnima/instagram-downloader": "^1.0.0",
         "@mrnima/tiktok-downloader": "^1.0.0",
         "@sl-code-lords/esana-news": "^1.1.0",
         "@sl-code-lords/movie-api": "^1.0.0",
