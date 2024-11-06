@@ -39,7 +39,6 @@
         "@sl-code-lords/esana-news": "^1.1.0",
         "@sl-code-lords/movie-api": "^1.0.0",
         "@sl-code-lords/si-subdl": "^1.1.1",
-        "canvas": "^2.11.2",
         "cheerio": "^1.0.0",
         "file-type": "^16.5.3",
         "fluent-ffmpeg": "^2.1.3",
