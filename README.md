@@ -32,29 +32,29 @@
 
 ## ✔ STEP 01 -  Fork The Repo
 
-<a href="https://github.com/uwtechshow-official/Queen-Spriky-MD-News-Bot/fork"><img src="https://img.shields.io/badge/Fork%20Repo-blue" alt="FORK REPO" width="130"></a>
+<a href="https://github.com/uwtechshow-official/Queen-Spriky-MD/fork"><img src="https://img.shields.io/badge/Fork%20Repo-blue" alt="FORK REPO" width="130"></a>
 
 ## ✔ STEP 02 -  Get Session ID
 
-<a href="https://pair-web-public.koyeb.app/"><img src="https://img.shields.io/badge/Get Session ID-blue" alt="GET SESSION" width="170"></a>
+<a href="https://queen-spriky-pair.koyeb.app"><img src="https://img.shields.io/badge/Get Session ID-blue" alt="GET SESSION SERVER 1 (Koyweb)" width="170"></a>
+<a href="https://replit.com/@udavinstudio/Queen-Spriky-Pair-Code-Generator?v=1"><img src="https://img.shields.io/badge/Get Session ID-blue" alt="GET SESSION SERVER 2 (Replit)" width="170"></a>
 
 
 
 ## ✔ STEP 03 -  Deployment Methods
 
+<a href="https://www.heroku.com/deploy?template=https://github.com/uwtechshow-official/Queen-Spriky-MD/">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
 <a href="#"><img src="https://img.shields.io/badge/Code Space-green" alt="DEPLOY CODESPACE" width="150"></a>
 <br>
 <a href="https://replit.com/"><img src="https://img.shields.io/badge/Replit-green" alt="DEPLOY REPLIT" width="80"></a>
-<br>
-<a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-green" alt="DEPLOY VERCEL" width="80"></a>
 <br>
 
 <div align="center">
  
   <h1>Deployment Tutorial Videos</h1>
-  <a href="https://www.youtube.com/watch?v=9reuWeu-S8A"><img src="https://img.shields.io/badge/CodeSpace Tutorial-red" alt="CodeSpace Tutorial" width="250"></a><br>
-  <a href="https://www.youtube.com/watch?v=335WCN678hA"><img src="https://img.shields.io/badge/Replit Tutorial-red" alt="Replit Tutorial" width="180"></a><br>
-  <h3>More Methods Will Uploaded Soon Stay Tuned.</h3>
+  <h3>Will Uploaded Soon Stay Tuned.</h3>
 <br>
 </div>
 
