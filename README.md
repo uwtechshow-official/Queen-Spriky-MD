@@ -1,7 +1,7 @@
 
 <h1 align="center">QUEEN SPRIKY MD WHATSAPP BOT BOT</h1>
 <h2 align="center">VERSION 1</h2>
-
+<br>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=5513F7&width=435&lines=Queen Spriky MD WhatsApp Bot Developed By Udavin " alt="Typing SVG" /></a>
 </p>
@@ -45,7 +45,7 @@
 
 <a href="https://www.heroku.com/deploy?template=https://github.com/uwtechshow-official/Queen-Spriky-MD/">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
-</a>
+</a><br>
 <a href="#"><img src="https://img.shields.io/badge/Code Space-green" alt="DEPLOY CODESPACE" width="150"></a>
 <br>
 <a href="https://replit.com/"><img src="https://img.shields.io/badge/Replit-green" alt="DEPLOY REPLIT" width="80"></a>
