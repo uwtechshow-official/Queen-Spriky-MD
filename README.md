@@ -36,8 +36,8 @@
 
 ## ✔ STEP 02 -  Get Session ID
 
-<a href="https://queen-spriky-pair.koyeb.app"><img src="https://img.shields.io/badge/Get Session ID Server 1 Koyeb-blue" alt="GET SESSION SERVER 1 (Koyweb)" width="230"></a><br>
-<a href="https://replit.com/@udavinstudio/Queen-Spriky-Pair-Code-Generator?v=1"><img src="https://img.shields.io/badge/Get Session ID Server 2 Replit-blue" alt="GET SESSION SERVER 2 (Replit)" width="230"></a>
+<a href="https://queen-spriky-pair.koyeb.app"><img src="https://img.shields.io/badge/Session ID Server 1 Koyeb-blue" alt="GET SESSION SERVER 1 (Koyweb)" width="230"></a><br>
+<a href="https://replit.com/@udavinstudio/Queen-Spriky-Pair-Code-Generator?v=1"><img src="https://img.shields.io/badge/Session ID Server 2 Replit-blue" alt="GET SESSION SERVER 2 (Replit)" width="230"></a>
 
 
 
