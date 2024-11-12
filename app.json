@@ -8,13 +8,11 @@
   "env": {
     "SESSION_ID": {
       "description": "Put the session-id here.",
-      "value" :"7iJWlJQQ#LjnjSKFlJmudP7MLUm-HTTM6qHf3tP7ShEDkGhxc6yE",
       "required": true
     },
     
     "MONGODB": {
       "description": "Enter Your Mongodb Url Here.",
-      "value" :"mongodb+srv://mdprabath518:1234@cluster0.swetgsg.mongodb.net/",
       
       "required": true
     },
