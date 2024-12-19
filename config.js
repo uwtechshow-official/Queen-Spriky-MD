@@ -6,7 +6,7 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-    SESSION_ID: process.env.SESSION_ID || '', // Enter Your Session ID
+    SESSION_ID: process.env.SESSION_ID || 'rqBx2SYa#qJrXTZnv09CzTnAsdyLneVR6aG54OxAa5yucrOLipGE', // Enter Your Session ID
     MONGODB: process.env.MONGODB || '',// Enter Your MongoDB URL
-    OWNER_NUMBER: process.env.OWNER_NUMBER || '',    // Enter Your Owner Number
+    OWNER_NUMBER: process.env.OWNER_NUMBER || '923091619697',    // Enter Your Owner Number
 };
