@@ -41,7 +41,6 @@
         "node-fetch": "^2.6.1",
         "node-schedule": "^2.1.1",
         "pino": "^7.0.5",
-        "pixaldrain-sinhalasub": "git+https://github.com/DarkMakerofc/pixaldrain-sinhalasub.git",
         "pm2": "^5.2.0",
         "qrcode-terminal": "^0.12.0",
         "sinhalasub.lk": "^9.0.0",
