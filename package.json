@@ -14,8 +14,6 @@
         "@mrnima/instagram-downloader": "^1.0.0",
         "@mrnima/tiktok-downloader": "^1.0.0",
         "@sl-code-lords/esana-news": "^1.1.0",
-        "@sl-code-lords/movie-api": "^1.0.0",
-        "@sl-code-lords/si-subdl": "^1.1.1",
         "@whiskeysockets/baileys": "6.6.0",
         "axios": "1.7.5",
         "cheerio": "^1.0.0",
